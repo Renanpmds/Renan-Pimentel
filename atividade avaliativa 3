@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+      <head>
+             <meta charset="UTF-8">
+             <title> Atividade avaliativa-29-09</title>
+      </head>
+
+      <body bgcolor="lightblue">
+             <h1>meu formulario</h1>
+             <p><strong>Este é um formulario de um exemplo</strong></p>
+      <main>
+             <form>
+                    <label for="nomesobrenome"> Nome e sobrenome</label>
+                    <input type="text"id="nomesobrenome">
+
+                    <label for="email"> Email </label>
+                    <input type="text" id= "email">
+
+                    <label for="telefone"> Telefone </label>
+                    <input type="text"id="telefone">
+
+      <fieldset>
+
+                <legend>Melhor marca</legend>
+
+                     <select>
+                       <option>Iphone</option>
+                       <option>Sansung</option>
+                       <option>Motorola</option>
+                       <option>Xiaome</option>
+                     </select>
+
+      </fieldset>
+      <fieldset>
+                 <legend>Itinerario 2022</legend>
+                 <input type="radio"id"="radio"><label for="radio">Linguagens</label>
+                 <input type="radio"id"="radio"><label for="radio">exatas</label>
+      </fieldset>
+      <ol>
+        <legend><strong>preparaçao de ovo mechido</strong></legend>
+        <li>Pegue 2 ovos</li>
+        <li>quebre em uma panela</li>
+        <li>Espere ele fritar um pouco</li>
+        <li>Mecha bem</li>
+        <li>Coloque sal e temperos de sua preferençia</li>
+      </ol>
+      <ul>
+        <legend><strong>Lista de materiais</strong></legend>
+        <li>Cola</li>
+        <li>Regua</li>
+        <li>Caderno</li>
+        <li>Lapis</li>
+        <li>caneta</li>
+      </ul>
+
+<h1>exemplo de tabela<h1>
+  <table border="1">
+      <tr>
+          <td>Nome</td>
+          <td>Idade</td>
+          <td>Profissão</td>
+      </tr>
+      <tr>
+          <td>Ted</td>
+          <td>22</td>
+          <td>Estudante</td>
+      </tr>
+      <tr>
+          <td>Ralf</td>
+          <td>26</td>
+          <td>Designer</td>
+      </tr>
+  </table>
+
+<h1>Atividade avaliativa<h1>
+  <table border="1">
+   <thead>
+   <tr>
+     <td>Trimestres</td>
+     <td>Portugues</td>
+     <td>Matematica</td>
+     <td>Ingles</td>
+     <td>Arte</td>
+     <td>Biologia</td>
+     <td>Educaçao Fisica</td>
+
+   </tr>
+   </thead>
+   <tbody>
+
+     <tr>
+            <td>1 TRIMENTRE</td>
+            <td>6,7</td>
+            <td>7,8</td>
+            <td>9,7</td>
+            <td>9,6</td>
+            <td>10,0</td>
+            <td>10,0</td>
+        </tr>
+        <tr>
+               <td>2 TRIMENTRE</td>
+               <td>9,7</td>
+               <td>7,0</td>
+               <td>9,7</td>
+               <td>7,6</td>
+               <td>7,0</td>
+               <td>10,0</td>
+           </tr>
+           <tr>
+                  <td>3 TRIMENTRE</td>
+                  <td>6,8</td>
+                  <td>7,3</td>
+                  <td>7,9</td>
+                  <td>7,6</td>
+                  <td>6,0</td>
+                  <td>7,0</td>
+              </tr>
+
+</table>
+</body>
+<footer>
+  Renan Pimentel
+  <img src="images.jpeg">
+  <p class="copyright">& copy; copyright avaliaçao 3 </p>
+</footer>
+</html>
